@@ -445,6 +445,9 @@
   "7.2.0-64570-1":
     url: "https://global.synologydownload.com/download/DSM/release/7.2/64570-1/DSM_RS4021xs%2B_64570.pat"
     hash: "a55ff87947b0ad53e981dc1ffd23c829"
+  "7.2.0-64561-0":
+    url: "https://global.synologydownload.com/download/DSM/release/7.2/64561/DSM_RS4021xs%2B_64561.pat"
+    hash: "547885a4e22765674271c2e0906870f3"
   "7.1.1-42962-1":
     url: "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS4021xs%2B_42962.pat"
     hash: "fc15f132649a8c8626190dc864bbdf8c"
